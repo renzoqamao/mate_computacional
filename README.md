@@ -20,3 +20,18 @@ terminal:
 
 
 >python3 bspline.py
+
+librerias usadas:
+
+>scipy
+
+>numpy
+
+>matplotlib
+
+>sympy
+
+>math
+
+instalar libreria:
+> pip3 install nombre-libreria
